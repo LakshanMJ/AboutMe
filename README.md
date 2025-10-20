@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 Highly motivated and aspiring software engineering undergraduate student with a passion for technology and innovation. Proficient in multiple programming languages and experienced in developing robust and scalable applications.
 
 
